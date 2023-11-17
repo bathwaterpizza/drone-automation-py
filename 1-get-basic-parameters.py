@@ -1503,9 +1503,9 @@ def main():
     print("\n\n\n")
 
 
-    big_print("Get position")
-    last_home = copter.home_position_as_mav_location()
-    print("Latitute = {} - Longitude = {}".format(last_home.lat, last_home.lng))
+    #big_print("Get position")
+    #last_home = copter.home_position_as_mav_location()
+    #print("Latitute = {} - Longitude = {}".format(last_home.lat, last_home.lng))
 
 
 
